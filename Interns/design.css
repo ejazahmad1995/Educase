@@ -1,0 +1,95 @@
+#container{
+    border: .5px solid gray;
+    height: 900px;
+    width: 400px;
+  margin: auto;
+  margin-top: 30px;
+
+}
+#logo-img{
+    width: 400px;
+    margin-left:0px;
+
+}
+/* img{
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+} */
+#lorem{
+    margin-left: 20px;
+}
+
+h1{
+    text-align: center;
+}
+input{
+    width: 80%;
+    height: 50px;
+    border-radius: 8px;
+    margin: auto;
+    margin-top: 30px;
+}
+#div-log{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+/* #div-log>p{
+    text-decoration-color: red;
+} */
+#log-btn{
+    text-decoration: underline;
+  text-decoration-color: red;
+  text-decoration-thickness: 3px;
+  
+}
+#forgot>p{
+    color: rgb(208, 27, 58);
+    text-align: end;
+}
+#Orlog>p{
+    text-align: center;
+
+}
+#logo-symbol>img{
+    display: flex;
+    margin-left: 100px;
+    justify-content: center;
+    width: 200px;
+}
+#terms{
+    display: flex;
+    justify-content: center;
+}
+#p-terms{
+    color: rgb(208, 27, 58);
+}
+#bySigning{
+    display: flex;
+    justify-content: center;
+
+}
+#p-bySigning{
+    color: rgb(208, 27, 58);
+
+}
+#email{
+    margin-left: 35px;
+}
+#password{
+    margin-left: 35px;
+}
+#sub-btn{
+    margin-left: 38px;
+    
+}
+#sub-btn>input{
+    
+    background-color: rgb(208, 27, 58);
+    width: 330px;
+}
+    
+    
